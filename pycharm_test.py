@@ -6,3 +6,6 @@ print("hello git! hello git world! push commit")
 print("hello git! hello git world!")
 print("hello git! hello git world! fix-bug commit")
 print("hello git! hello git world! second push commit")
+print("hello git! hello git world! pull commit")
+print("hello git! hello git world! fix-bug commit")
+
