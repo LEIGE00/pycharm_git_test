@@ -1,0 +1,7 @@
+print("hello git! hello git world! first commit")
+print("hello git! hello git world! second commit")
+print("hello git! hello git world! master commit")
+print("hello git! hello git world! fix-bug commit")
+print("hello git! hello git world!")
+print("hello git! hello git world!")
+print("hello git! hello git world! fix-bug commit")
